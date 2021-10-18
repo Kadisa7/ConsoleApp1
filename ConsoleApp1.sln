@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{94D38A81-BCB3-44A4-B176-5AC9E506AF37}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ub", "ub", "{4F603F7E-E189-4F6B-A437-50713B204D07}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\ultrabalaton\ub2017egyeni.txt = ..\..\..\Desktop\ultrabalaton\ub2017egyeni.txt
+		..\..\..\Desktop\ultrabalaton\ultrabalcsi.pdf = ..\..\..\Desktop\ultrabalaton\ultrabalcsi.pdf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94D38A81-BCB3-44A4-B176-5AC9E506AF37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94D38A81-BCB3-44A4-B176-5AC9E506AF37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94D38A81-BCB3-44A4-B176-5AC9E506AF37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94D38A81-BCB3-44A4-B176-5AC9E506AF37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21C95154-416A-432B-8F59-77351B8CCEA3}
+	EndGlobalSection
+EndGlobal
